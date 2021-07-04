@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-Analyse crypto currency market to group currencies together using a clustering algorithm.  We reduced the principle components usin PCA and processed the data to fit the machine learning models.
+Analyse crypto currency market to group currencies together using a clustering algorithm.  We reduced the principle components using Principle Component Analysis and processed the data to fit the machine learning models.
 
 
   - Deliverable 1: Preprocessing the Data for PCA
